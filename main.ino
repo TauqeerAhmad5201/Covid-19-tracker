@@ -117,5 +117,19 @@ void loop() {
         Serial.println("Reconnecting to WiFi..");       
         delay(10000);                                                             
       }
+        lcd.clear();
+        lcd.setCursor(0, 0);
+        lcd.print("Cases:");
+        lcd.setCursor(7, 0);
+        lcd.print(Cases);
+
+        lcd.setCursor(0, 1);
+        lcd.print("D:");
+        lcd.setCursor(2, 1);
+        lcd.print(Deaths);
         
+        lcd.setCursor(8, 1);
+        lcd.print("R:");
+        lcd.setCursor(10, 1);
+        lcd.print(Recovered);
 }
