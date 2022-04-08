@@ -8,4 +8,4 @@ Covid 19 Tracker is Wi-Fi based hardware device using ESP8266 Module to integrat
 
 ![collecting data](https://github.com/TauqeerAhmad5201/Covid-19-tracker/blob/main/images/Working1.jpg?raw=true)
 ![Some_highlights](https://github.com/TauqeerAhmad5201/Covid-19-tracker/blob/main/images/Working2.jpg?raw=true)
-![Output](https://github.com/TauqeerAhmad5201/Covid-19-tracker/blob/main/images/Working3.jpg?raw=true)
+![Output](https://github.com/TauqeerAhmad5201/Covid-19-tracker/blob/main/images/Working3.png?raw=true)
