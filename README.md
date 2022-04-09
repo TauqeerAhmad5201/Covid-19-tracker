@@ -11,7 +11,7 @@ Covid 19 Tracker is Wi-Fi based hardware device using ESP8266 Module to integrat
 
 ##Agenda
 
--Covid 19 has been a pandemic since early of 2020, spreading across the global just within a certain contact with human or any object. However, in many a places online trackers are being used using the government provided data however just in one have to use any sort of electronic device to track down the data which really cost an efforts.
+- Covid 19 has been a pandemic since early of 2020, spreading across the global just within a certain contact with human or any object. However, in many a places online trackers are being used using the government provided data however just in one have to use any sort of electronic device to track down the data which really cost an efforts.
 - So dealing with that, developed a 16x2 LCD Display ESP8266 Wi-Fi based module tracking the real time data of Covid-19 and updating the audience or worker in a particular required arena. 
 - The arena may include hospitals, offices and public sectors where polls of audience is quite high. 
 
